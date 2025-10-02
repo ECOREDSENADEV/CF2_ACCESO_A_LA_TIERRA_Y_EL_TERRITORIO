@@ -15,14 +15,14 @@
         p(data-aos="fade-left") Hacer investigación significa buscar respuestas a preguntas que tenemos sobre un tema, utilizando un método ordenado para observar, recolectar información, analizarla y llegar a conclusiones. En el contexto de una comunidad campesina, esta labor cobra un sentido práctico y social fundamental, ya que permite caracterizar a la comunidad, es decir, definir los rasgos que la distinguen de otras y comprender su realidad particular.
     
         .row.align-items-start.mb-3
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema1/2.png", style="max-width: 190px").mx-auto
           .col-lg
             div.bg-color-5.px-5.py-4.tarjeta
               p.mb-0 Además, cuando se presenta una situación específica o un problema que necesita resolverse, la investigación nos permite realizar un diagnóstico. Esto implica evaluar la situación, analizar las causas y consecuencias, y plantear posibles soluciones. En este sentido, la investigación se convierte en una herramienta clave para la transformación social.
         
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema1/3.svg", style="max-width: 90px").mx-auto
           .col-lg
             p.mb-0 Dentro del programa es fundamental conocer a fondo las comunidades campesinas, identificar las problemáticas más relevantes que enfrentan y contribuir a la gestión de soluciones sostenibles. Por esta razón, es necesario aprender y aplicar métodos y herramientas de investigación adaptados a este contexto.

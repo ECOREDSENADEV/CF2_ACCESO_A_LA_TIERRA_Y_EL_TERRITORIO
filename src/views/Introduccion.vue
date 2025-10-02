@@ -16,7 +16,7 @@
         p(data-aos="fade-left") La investigación en comunidades campesinas no solo busca recopilar datos, sino comprender la realidad de quienes habitan y transforman el territorio. A través de metodologías participativas, este proceso se convierte en una herramienta para identificar necesidades, fortalecer la organización social y proyectar soluciones colectivas que respondan a los retos del entorno.
     
         .row.align-items-start
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/intro/2.svg", style="max-width: 190px").mx-auto
           .col-lg
             div.bg-color-4.p-4.tarjeta
@@ -24,7 +24,7 @@
     
 
     .row.align-items-center
-      .col-lg-auto
+      .col-lg-auto.mb-3.mb-lg-0
         img(src="@/assets/curso/intro/3.svg", style="max-width: 90px").mx-auto
       .col-lg
         p.mb-0 De esta manera, la investigación participativa se plantea como un ejercicio transformador que trasciende lo académico. Su finalidad es empoderar a las comunidades campesinas, visibilizar sus problemáticas y fortalecer su capacidad de decisión sobre el uso del territorio y los recursos. Con ello, se construyen bases sólidas para alcanzar un desarrollo rural sostenible y equitativo.

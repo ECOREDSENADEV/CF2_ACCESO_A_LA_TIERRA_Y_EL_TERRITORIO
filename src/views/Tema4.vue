@@ -27,19 +27,19 @@
 
         TabsC.color-acento-contenido(data-aos="zoom-in").mb-5
           .py-3.py-md-4(titulo="Métodos participativos")
-            .row.justify-content-center.align-items-center
-              .col-md-6.mb-4.mb-md-0.order-2
+            .row.justify-content-center.align-items-center.p-4
+              .col-lg-6.mb-4.mb-md-0.order-2
                 h4 Métodos participativos
                 p La información se obtiene mediante técnicas como entrevistas, encuestas, grupos focales, observación directa, talleres, cartografías, entre otros. En todos los casos, la comunidad campesina participa activamente y aporta sus conocimientos, vivencias y propuestas.
-              .col-md-5.order-1.mb-3.mb-lg-0
+              .col-lg-5.order-1.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema4/2.png', alt='Texto que describa la imagen')
           .py-3.py-md-4(titulo="Fuentes de información")
-            .row.justify-content-center.align-items-center
-              .col-md-6.mb-4.mb-md-0.order-2
+            .row.justify-content-center.align-items-center.p-4
+              .col-lg-6.mb-4.mb-md-0.order-2
                 h4 Fuentes de información
                 p Se integran datos cualitativos (narrativas, testimonios, observaciones) y cuantitativos (cifras, estadísticas, mediciones). Ambas dimensiones son necesarias para construir una visión integral del contexto comunitario.
-              .col-md-5.order-1.mb-3.mb-lg-0
+              .col-lg-5.order-1.mb-3.mb-lg-0
                 figure
                   img(src='@/assets/curso/tema4/3.png', alt='Texto que describa la imagen')
 
